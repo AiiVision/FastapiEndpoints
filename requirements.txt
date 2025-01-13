@@ -9,3 +9,4 @@ uvicorn
 gunicorn
 pypdf
 docx2txt
+tavily-python
